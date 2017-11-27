@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImageLoaderUtils/ImageLoaderUtils.iml" filepath="$PROJECT_DIR$/ImageLoaderUtils/ImageLoaderUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JingDong2.iml" filepath="$PROJECT_DIR$/JingDong2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/downlaod/downlaod.iml" filepath="$PROJECT_DIR$/downlaod/downlaod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liujunxian201711/liujunxian201711.iml" filepath="$PROJECT_DIR$/liujunxian201711/liujunxian201711.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mothdemo/mothdemo.iml" filepath="$PROJECT_DIR$/mothdemo/mothdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myokhttp3utils/myokhttp3utils.iml" filepath="$PROJECT_DIR$/myokhttp3utils/myokhttp3utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rj/rj.iml" filepath="$PROJECT_DIR$/rj/rj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text/text.iml" filepath="$PROJECT_DIR$/text/text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhoudemo/zhoudemo.iml" filepath="$PROJECT_DIR$/zhoudemo/zhoudemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhoukao1/zhoukao1.iml" filepath="$PROJECT_DIR$/zhoukao1/zhoukao1.iml" />
+    </modules>
+  </component>
+</project>
